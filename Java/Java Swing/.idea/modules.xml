@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JRadioButtonandJCheckbox/JRadioButtonandJCheckbox.iml" filepath="$PROJECT_DIR$/JRadioButtonandJCheckbox/JRadioButtonandJCheckbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JTextArea/JTextArea.iml" filepath="$PROJECT_DIR$/JTextArea/JTextArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JTextField/JTextField.iml" filepath="$PROJECT_DIR$/JTextField/JTextField.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Swing.iml" filepath="$PROJECT_DIR$/Java Swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Menu/Menu.iml" filepath="$PROJECT_DIR$/Menu/Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cac thao tac ve chuot may tinh/cac thao tac ve chuot may tinh.iml" filepath="$PROJECT_DIR$/cac thao tac ve chuot may tinh/cac thao tac ve chuot may tinh.iml" />
+    </modules>
+  </component>
+</project>
